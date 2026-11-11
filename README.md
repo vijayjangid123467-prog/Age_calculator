@@ -14,25 +14,25 @@ Age Calculator Using Python
 #🛠️ Technologies Used
 Python 3
 #💻 Code
-Python
-birth_year = int(input("Enter birth year: "))
-current_year = int(input("Enter current year: "))
-age = current_year - birth_year
-print("Your age is", age)
+>Python
+>birth_year = int(input("Enter birth year: "))
+>current_year = int(input("Enter current year: "))
+>age = current_year - birth_year
+>print("Your age is", age)
 
 #▶️ How to Run
-Install Python on your computer.
-Save the code in a file named age_calculator.py.
-Open a terminal or command prompt.
-Navigate to the file location.
-Run the program using:
-Shell
-python age_calculator.py
-📷 Example Output
-Plain Text
-Enter birth year: 2005
-Enter current year: 2026
-Your age is 21
+>Install Python on your computer.
+>Save the code in a file named age_calculator.py.
+>Open a terminal or command prompt.
+>Navigate to the file location.
+>Run the program using:
+>Shell
+>python age_calculator.py
+>📷 Example Output
+>Plain Text
+>Enter birth year: 2005
+>Enter current year: 2026
+>Your age is 21
 #📚 Learning Concepts
 
 This project helps beginners understand:
